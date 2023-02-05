@@ -297,7 +297,7 @@ class Players{
         }
     }
 }
-class Main {
+class SnakeAndLadderGAME {
     public static void main(String[] args) {
         Driver driver = new Driver();
         driver.driverTheGame();
